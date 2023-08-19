@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/F4-SignUp-React/static/css/main.d486f719.css",
+    "main.js": "/F4-SignUp-React/static/js/main.cdaf141f.js",
+    "index.html": "/F4-SignUp-React/index.html",
+    "main.d486f719.css.map": "/F4-SignUp-React/static/css/main.d486f719.css.map",
+    "main.cdaf141f.js.map": "/F4-SignUp-React/static/js/main.cdaf141f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d486f719.css",
+    "static/js/main.cdaf141f.js"
+  ]
+}
