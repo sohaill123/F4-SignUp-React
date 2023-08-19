@@ -1,0 +1,38 @@
+.navbar {
+    width: 100%;
+    color: #000; /* Inverted color */
+    border-bottom: 2px solid #000; /* Inverted color */
+    display: flex;
+    text-decoration: none;
+}
+
+.navbar {
+    color: #000; /* Inverted color */
+    list-style-type: none;
+    margin-right: 1rem;
+}
+
+.links {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    text-decoration: none;
+
+   
+    
+}
+
+.link {
+    color: #000; /* Inverted color */
+    text-decoration: none;
+    margin-right: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.navbar p{
+    color: black;
+    font-size: 15px; 
+    font-weight: bold;
+}

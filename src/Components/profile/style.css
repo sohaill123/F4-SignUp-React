@@ -1,0 +1,45 @@
+body {
+  background-color: white;
+  box-sizing: border-box;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+
+  
+}
+
+h2 {
+  color: black;
+  margin-left: 3rem;
+  /* margin-top: 2rem; */
+  width: 50rem;
+  height: 40px;
+}
+
+.profile-container {
+  width: 100%;
+    max-width: 400px; /* Limit the width of the signup form */
+    padding: 20px; /* Add padding for better spacing */
+    border: 1px solid #ccc; /* Add a border */
+    border-radius: 10px; /* Rounded border corners */
+    background-color: #fff; /* White background */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a slight shadow */
+
+
+}
+
+#logout-btn {
+  margin-top: 20px;
+    width: 100%;
+    height: 40px;
+    background: linear-gradient(180deg, #625BF7 0%, #463EEA 100%);
+
+    
+    color: #fff; /* Text color on the button */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
